@@ -1,0 +1,14 @@
+.DS_Store
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Generated executables and run outputs; reference outputs remain tracked.
+/01-single-cycle-mips/MIPS
+/01-single-cycle-mips/RFresult.txt
+/01-single-cycle-mips/dmemresult.txt
+/02-pipelined-mips/MIPS_pipeline
+/02-pipelined-mips/RFresult.txt
+/02-pipelined-mips/stateresult.txt
+/02-pipelined-mips/dmemresult.txt
